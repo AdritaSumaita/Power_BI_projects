@@ -1,0 +1,8 @@
+﻿ChannelKey,Channel Name,Channel Group,Is Digital
+1,Face-to-Face,Acquisition,False
+2,Digital Paid,Acquisition,True
+3,Digital Organic,Retention,True
+4,Direct Mail,Retention,False
+5,Telemarketing,Retention,False
+6,Events,Acquisition,False
+7,Major Gifts,High Value,False

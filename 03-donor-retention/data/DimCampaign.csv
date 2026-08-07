@@ -1,0 +1,45 @@
+﻿CampaignKey,Campaign Name,ChannelKey,Start Date,End Date,Appeal Type,Target Amount
+1,Face-to-Face Programme 2022,1,2022-01-01,2022-12-31,Regular,250000
+2,Digital Paid Programme 2022,2,2022-01-01,2022-12-31,Regular,250000
+3,Digital Organic Programme 2022,3,2022-01-01,2022-12-31,Regular,250000
+4,Direct Mail Programme 2022,4,2022-01-01,2022-12-31,Regular,250000
+5,Telemarketing Programme 2022,5,2022-01-01,2022-12-31,Regular,250000
+6,Events Programme 2022,6,2022-01-01,2022-12-31,Regular,250000
+7,Major Gifts Programme 2022,7,2022-01-01,2022-12-31,Regular,250000
+8,Christmas Appeal 2022,2,2022-11-15,2022-12-31,Christmas,600000
+9,Legacy Programme 2022,4,2022-01-01,2022-12-31,Legacy,150000
+10,Face-to-Face Programme 2023,1,2023-01-01,2023-12-31,Regular,250000
+11,Digital Paid Programme 2023,2,2023-01-01,2023-12-31,Regular,250000
+12,Digital Organic Programme 2023,3,2023-01-01,2023-12-31,Regular,250000
+13,Direct Mail Programme 2023,4,2023-01-01,2023-12-31,Regular,250000
+14,Telemarketing Programme 2023,5,2023-01-01,2023-12-31,Regular,250000
+15,Events Programme 2023,6,2023-01-01,2023-12-31,Regular,250000
+16,Major Gifts Programme 2023,7,2023-01-01,2023-12-31,Regular,250000
+17,Christmas Appeal 2023,2,2023-11-15,2023-12-31,Christmas,600000
+18,Legacy Programme 2023,4,2023-01-01,2023-12-31,Legacy,150000
+19,Face-to-Face Programme 2024,1,2024-01-01,2024-12-31,Regular,250000
+20,Digital Paid Programme 2024,2,2024-01-01,2024-12-31,Regular,250000
+21,Digital Organic Programme 2024,3,2024-01-01,2024-12-31,Regular,250000
+22,Direct Mail Programme 2024,4,2024-01-01,2024-12-31,Regular,250000
+23,Telemarketing Programme 2024,5,2024-01-01,2024-12-31,Regular,250000
+24,Events Programme 2024,6,2024-01-01,2024-12-31,Regular,250000
+25,Major Gifts Programme 2024,7,2024-01-01,2024-12-31,Regular,250000
+26,Christmas Appeal 2024,2,2024-11-15,2024-12-31,Christmas,600000
+27,Legacy Programme 2024,4,2024-01-01,2024-12-31,Legacy,150000
+28,Face-to-Face Programme 2025,1,2025-01-01,2025-12-31,Regular,250000
+29,Digital Paid Programme 2025,2,2025-01-01,2025-12-31,Regular,250000
+30,Digital Organic Programme 2025,3,2025-01-01,2025-12-31,Regular,250000
+31,Direct Mail Programme 2025,4,2025-01-01,2025-12-31,Regular,250000
+32,Telemarketing Programme 2025,5,2025-01-01,2025-12-31,Regular,250000
+33,Events Programme 2025,6,2025-01-01,2025-12-31,Regular,250000
+34,Major Gifts Programme 2025,7,2025-01-01,2025-12-31,Regular,250000
+35,Christmas Appeal 2025,2,2025-11-15,2025-12-31,Christmas,600000
+36,Legacy Programme 2025,4,2025-01-01,2025-12-31,Legacy,150000
+37,Ukraine Emergency Appeal,2,2022-03-08,2022-05-07,Emergency,400000
+38,Pakistan Floods Appeal,2,2022-09-19,2022-11-18,Emergency,400000
+39,Türkiye–Syria Earthquake Appeal,2,2023-02-07,2023-04-08,Emergency,400000
+40,Horn of Africa Drought Appeal,2,2023-10-11,2023-12-10,Emergency,400000
+41,East Africa Floods Appeal,2,2024-04-15,2024-06-14,Emergency,400000
+42,Sahel Hunger Crisis Appeal,2,2024-09-02,2024-11-01,Emergency,400000
+43,Myanmar Earthquake Appeal,2,2025-03-21,2025-05-20,Emergency,400000
+44,Caribbean Hurricane Appeal,2,2025-08-14,2025-10-13,Emergency,400000
