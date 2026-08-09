@@ -1,0 +1,11 @@
+﻿ReasonKey,Reason,Reason Category,Is Planned
+1,Yarn Break,Material,False
+2,Changeover,Operator,False
+3,No Material,Material,False
+4,Mechanical Failure,Equipment,False
+5,Quality Stop,Operator,False
+6,Electrical Fault,Equipment,False
+7,Operator Unavailable,Operator,False
+8,Waiting for Inspection,Operator,False
+9,Planned Maintenance,Planned,True
+10,Scheduled Cleaning,Planned,True

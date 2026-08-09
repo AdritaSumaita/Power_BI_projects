@@ -1,0 +1,13 @@
+﻿MachineKey,Machine ID,Machine Name,Production Line,Manufacturer,Install Year,Ideal Cycle Time Sec
+1,SPN-01,Ring Frame 1,Spinning,Rieter,2019,12.0
+2,SPN-02,Ring Frame 2,Spinning,Rieter,2019,12.0
+3,SPN-03,Ring Frame 3,Spinning,Trützschler,2012,13.5
+4,SPN-04,Open-End Frame,Spinning,Rieter,2021,9.5
+5,WEV-01,Air-Jet Loom 1,Weaving,Picanol,2018,21.0
+6,WEV-02,Air-Jet Loom 2,Weaving,Picanol,2018,21.0
+7,WEV-03,Rapier Loom 1,Weaving,Dornier,2011,24.0
+8,WEV-04,Rapier Loom 2,Weaving,Dornier,2016,23.0
+9,WEV-05,Air-Jet Loom 3,Weaving,Picanol,2022,19.0
+10,FIN-01,Stenter Frame,Finishing,Monforts,2017,15.0
+11,FIN-02,Dyeing Range,Finishing,Thies,2014,17.5
+12,FIN-03,Coating Line,Finishing,Monforts,2020,16.0
