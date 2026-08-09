@@ -2,7 +2,7 @@
 
 **Domain:** Nonprofit fundraising
 **Tools:** Power BI Desktop · DAX · Power Query
-**Status:** In build
+**Status:** Complete
 
 ---
 
