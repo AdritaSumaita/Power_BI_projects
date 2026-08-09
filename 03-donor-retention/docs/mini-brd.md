@@ -1,9 +1,9 @@
 # Mini-BRD — Donor Retention & Fundraising Performance
 
 **Client:** Nordic Relief Foundation (fictional)
-**Author:** _[add your name]_
-**Version:** 0.1 — draft
-**Date:** _[add date]_
+**Author:** Sumaita Faria Karim Adrita
+**Version:** 1.0
+**Date:** 2026-08-02
 
 ---
 
